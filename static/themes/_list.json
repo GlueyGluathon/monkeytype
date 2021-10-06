@@ -20,6 +20,11 @@
     "textColor": "#f44c7f"
   },
   {
+    "name": "green_haven",
+    "bgColor": "#161e06",
+    "textColor": "#98f414"
+  },
+  {
     "name": "carbon",
     "bgColor": "#313131",
     "textColor": "#ed6b21"
