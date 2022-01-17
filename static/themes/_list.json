@@ -613,5 +613,10 @@
     "name" : "chaos_theory",
     "bgColor" : "#141221",
     "textColor":"#fd77d7"
+  },
+  {
+    "name" : "indigo_vision",
+    "bgColor" : "#370085",
+    "textColor":"#e4a6ff"
   }
 ]
